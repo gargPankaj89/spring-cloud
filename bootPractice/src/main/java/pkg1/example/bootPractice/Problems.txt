@@ -1,0 +1,31 @@
+
+#1: 
+	How @RequestMapping getting inherited in spring ?
+	Why child is inheriting it even if @RMapping is not annotated with
+	@inheritance annotation.
+	
+#2: Is it like mapping annotations always gets inherited in java spring ?
+    Please explore.
+    
+    because i have seen that @RequestController is not getting inherited
+    from parent class in the child.
+    why the difference ?
+    
+#3:	What is the diff b/w @Controller and @RestController ?
+
+#4:	what is @Repeatable annotation and why do we need it ?    
+    
+#5: #SPRING ANNOTATION LINK PLEASE STUDY IT
+
+	
+	
+	Before understanding the Spring boot you should have basic
+	knowledge of the spring annotations . here is the link.
+	Please go thru this :
+	
+	--------------------
+	https://springframework.guru/spring-framework-annotations/
+	--------------------
+	
+	and try to practice all these annotations and understand it.	
+
